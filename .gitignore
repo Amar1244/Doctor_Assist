@@ -4,5 +4,6 @@ __pycache__/
 chroma_db/
 chunks.json
 *.pdf
+*.zip
 TEXT/
 tools/
